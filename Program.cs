@@ -1,6 +1,6 @@
 /*
    etdWebhook is a console-based message-forwarding tool. 
-   etdWebhook forwards text_bodies (email) to a discord webhook. 
+   etdWebhook forwards text_bodies (email) to a (discord) webhook. 
 
    Copyright (C) 2024  Carl Öttinger (Carl Oettinger)
 
